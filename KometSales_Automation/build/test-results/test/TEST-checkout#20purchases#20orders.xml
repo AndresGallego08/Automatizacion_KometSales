@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="checkout purchases orders" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-15T12:38:04" hostname="ANDRESGALLEGO" time="35.867">
+  <properties/>
+  <testcase name="complete a product checkout" classname="checkout purchases orders" time="35.867"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[jul 15, 2021 7:38:04 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jul 15, 2021 7:38:05 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
